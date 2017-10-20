@@ -19,7 +19,7 @@ public class DemoJenkinsApplicationTests {
 	
 	@Test
 	public void contextLoads() {
-		assertEquals(20, calculationService.add(4, 20));
+		assertEquals(20, calculationService.add(4, 16));
 	}
 
 }
